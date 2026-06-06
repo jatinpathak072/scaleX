@@ -39,4 +39,4 @@ A blog landing page showcasing articles from different categories such as:
 
 Frontend Developer passionate about creating modern and user-friendly web interfaces.
 
-GitHub: https://github.com/jatinpathak072
+Live: https://jatinpathak072.github.io/scaleX/
